@@ -44,6 +44,6 @@ https://api.github.com/search/users
 * Forkez le projet sur GitHub et codez directement dans le projet forké. 
 * Commitez aussi souvent que possible et commentez vos commits pour détailler votre chemin de pensée. 
 * Mettez à jour le README pour ajouter le temps passé et tout ce que vous jugerez nécessaire de nous faire savoir. 
-* Envoyez le lien avec le projet à recrutement@stadline.com. 
+* Envoyez le lien avec le projet à matthieu.blanchard@stadline.com. 
 
 **Bonne chance !**
