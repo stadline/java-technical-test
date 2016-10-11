@@ -15,7 +15,7 @@ La fonctionnalité de commentaire n'existe pas sur Github, vous devrez donc stoc
 ### Setup
 
 * La charte graphique n'est pas imposée et sera jugée en bonus.
-* Le choix de l'architecture n'est pas imposé. L'utilisation de spring boot est recommandée.
+* Le choix de l'architecture n'est pas imposé. L'utilisation de spring boot est recommandée (tous les guides sont disponibles ici : https://projects.spring.io/spring-boot/)
 
 ### Les pré-requis
 
